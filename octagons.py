@@ -71,7 +71,7 @@ while d_rotation > 2:
     print("yt_2 =",yt_2,"\n")
 
     print("xt_3 =",xt_3)
-    print("yt_3 =",yt_3,)
+    print("yt_3 =",yt_3,"\n")
 
     print("xt_4 =",xt_4)
     print("yt_4 =",yt_4,"\n")
@@ -83,10 +83,10 @@ while d_rotation > 2:
     print("yt_6 =",yt_5,"\n")
 
     print("xt_7 =",xt_7)
-    print("yt_7 =",yt_7,)
+    print("yt_7 =",yt_7,"\n")
 
     print("xt_8 =",xt_8)
-    print("yt_8 =",yt_8,"\n")
+    print("yt_8 =",yt_8)
     print("----------------")
 
     x_outer_v1 = xt_1
